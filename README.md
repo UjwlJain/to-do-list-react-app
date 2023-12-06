@@ -1,2 +1,2 @@
-# to do list react app
- using react
+# To-do-list
+Created using React+Vite.js
