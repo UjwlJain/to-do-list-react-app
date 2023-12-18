@@ -30,14 +30,14 @@
   }
   
   .newTaskForm input::placeholder {
-    color: #808080;
+    color: #808080af;
   }
   
   .newTaskForm button {
     height: 100%;
     padding: 0 16px;
-    background: #1E6F9F;
-    color: #fff;
+    background: #0d6a9f;
+    color: white;
     border: none;
     border-radius: 8px;
     display: flex;
